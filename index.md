@@ -48,9 +48,12 @@ Tzu-Sheng Kuo and **Eric Rawn**. _Let It Rip! Using Velcro for Acoustic Labeling
 
 “_Making Sense, Crystallizing Reason: an Intellectual History of Pervasive Computing at Xerox PARC_” Special Interest Group in Computing, Information, and Society (SIGCIS) Annual Meeting, November 13, 2022. 
 
-“_Mark Weiser and the Invisible Computer_” Guest Lecture, FILM R1A: The Interface. UC Berkeley. April 26, 2023
-
 “_Representation and Rationality in Computation: From Hegel to Herbert Simon_” Symposium: Psychedelia and Computing: How to Bifurcate Cybernetics? UC Berkeley Center for Science, Technology, Medicine, and Society. Apr. 2023
+
+### Guest Lectures
+"_The Intellectual History of HCI: An Overview_", CS 598 SMC/SPH: Research Methods in Human-Computer Interaction. University of Illinois Urbana-Champaign, Spring 2024
+
+“_Mark Weiser and the Invisible Computer_” FILM R1A: The Interface. UC Berkeley. April 26, 2023
 
 ## Experience
 `2019-2021`
@@ -89,6 +92,8 @@ Manager: Alec Rivers
 `2017`
 Critically Thinking About Video Games, _Instructor_, Stanford University Fall 2017
 - Taught a novel supplementary course to Stanford’s Art Immersion Curriculum in Digital/Interactive media, discussing political, economic, and social perspectives on interactive media as an industry and art form.
+
+
 
 ## Awards
 `2024`
