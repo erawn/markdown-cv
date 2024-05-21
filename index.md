@@ -28,7 +28,7 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 ## Education
 `June 2021 - Present`
 __University of California, Berkeley__
-- Ph.D. Computer Science _Human-Computer Interaction_
+- Ph.D. Computer Science *Human-Computer Interaction*
 - Advised by Sarah Chasins
 
 __Stanford University__
@@ -64,59 +64,71 @@ Tzu-Sheng Kuo and **Eric Rawn**. _Let It Rip! Using Velcro for Acoustic Labeling
 `2019-2021`
 HCI Research Assistant Stanford University
 Mentor: Jingyi Li, Stanford HCI
-Contributed conceptually and technically to a novel fabrication method for bespoke clothing.
+- Contributed conceptually and technically to a novel fabrication method for bespoke clothing.
 
 `2020`
 **Algorithms Intern Shaper Tools**
 Manager: Alec Rivers
-Wrote a remote continuous-integration testing harness for compiling performance metrics on embedded hardware. Profiled embedded C++ applications and contributed fixes which reduced device startup time by 65%+. Developed multiple experimental interactions for contextual vector design tools.
+- Wrote a remote continuous-integration testing harness for compiling performance metrics on embedded hardware. Profiled embedded C++ applications and contributed fixes which reduced device startup time by 65%+. Developed multiple experimental interactions for contextual vector design tools.
 
 **Artist Assistant Stanford University**
-Created an installation for Terry Berlier with 25 connected stepper motors, driven by a MIDI-based interface.
+- Created an installation for Terry Berlier with 25 connected stepper motors, driven by a MIDI-based interface.
 
 **Prototyping Studio Technician **
 Dept. of Art Practice, Stanford University
-I made tutorials and development tools for VR, 3D Printing, Projection Mapping, and fabrication devices, helped students plan and execute digital and physical projects, and instructed the use of CNC tools and digital software.
+- I made tutorials and development tools for VR, 3D Printing, Projection Mapping, and fabrication devices, helped students plan and execute digital and physical projects, and instructed the use of CNC tools and digital software.
+
+## Teaching
+`2023`
+Programming Languages and Compilers, Graduate Student Instructor, UC Berkeley, Fall 2023
+
+`2022`
+Design Frameworks: History and Methods, Graduate Student Instructor, Masters of Design Course, UC Berkeley, Spring 2022
+
+Design Thesis Studio, Graduate Student Instructor, Masters of Design Course, UC Berkeley, Fall 2022
+
+`2020`
+Digital Workshop for Artists, Instructor, Stanford University Spring 2020 (Remote)
+- Designed and taught an introductory digital art course centered around critical practice with code. Instructed both technical and conceptual skills through projects and readings.
+
+`2019`
+Digital Workshop for Artists, Instructor, Stanford University Fall 2019
+- Designed and taught an introductory programming and electronics class designed for individual arts practice and practical skills.  
+
+`2017`
+Critically Thinking About Video Games, Instructor, Stanford University Fall 2017
+- Taught a novel supplementary course to Stanford’s Art Immersion Curriculum in Digital/Interactive media, discussing political, economic, and social perspectives on interactive media as an industry and art form.
 
 ## Awards
+`2022`
+ACM History Committee Fellowship
+- To encourage historical research, the ACM History Committee supports up to four research projects each year with awards of up to $4,000 each.
 
-`2012`
-President, *Royal Society*, London, UK
+SIGCIS Travel Grant
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Berkeley Center for New Media Travel Grant
 
 
-## Occupation
+## Service
+### Reviewer
+CHI ‘23 ‘24, UIST ’23 ‘24, DIS ‘23 ‘24
+3 Special Review Recognitions
 
-`1600`
-__Royal Mint__, London
+`2023`
+Graduate HCI Group Organizer
+UC Berkeley
 
-- Warden
-- Minted coins
+`2021-2022`
+Undergraduate HCI Research Group Organizer
+Hybrid Ecologies Lab, UC Berkeley
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2020`
+HCI Reading Group Organizer 
+Stanford Human-Computer Interaction Group
+
+Student Volunteer 
+UIST 2020
+
 
 
 
