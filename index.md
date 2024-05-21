@@ -11,18 +11,10 @@ title: Eric Rawn CV
 </div>
 
 
-## Currently
+## About Me
+Ph.D. Student at UC Berkeley. I study programming process: how people work with programs over time to experiment, compare, reflect, and understand the history of their code. I am especially interested in building tools for highly exploratory domains of programming, like creative coding and data science.
 
-Ph.D. Student at UC Berkeley. 
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+I also have interests in the Intellectual History of HCI, the politics of computing, and philosophy of mind. 
 
 
 ## Education
