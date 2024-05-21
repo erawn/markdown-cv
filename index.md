@@ -18,7 +18,7 @@ I also have interests in the Intellectual History of HCI, the politics of comput
 
 
 ## Education
-`June 2021 - Present`
+`2021 - Present`
 __University of California, Berkeley__
 - Ph.D. Computer Science *Human-Computer Interaction*
 - Advised by Sarah Chasins
