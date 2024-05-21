@@ -1,19 +1,19 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Eric Rawn CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Eric Rawn
+
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="erawn@berkeley.edu">erawn@berkeley.edu</a>
+| <a href="ericrawn.media">Homepage</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Ph.D. Student at UC Berkeley. 
 
 ### Specialized in
 
@@ -26,12 +26,16 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
 `June 1661 - now`
-__Trinity College, Cambridge__
+__University of California, Berkeley__
+
+### Stanford University
+`2020-2021`
+__M.S. Computer Science__ _Human-Computer Interaction_
+`2016-2020`
+__B.S. Computer Science__ _Graphics_
+
+
 
 - Sizar
 
