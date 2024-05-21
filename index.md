@@ -33,13 +33,14 @@ __University of California, Berkeley__
 
 __Stanford University__
 `2020-2021`
-- __M.S. Computer Science__ _Human-Computer Interaction_
+- M.S. Computer Science _Human-Computer Interaction_
 `2016-2020`
-- __B.S. Computer Science__ _Graphics_
+- B.S. Computer Science _Graphics_
 
 ## Publications
 `2024`
 **Eric Rawn**, “_The Work and Vision of Ubiquitous Computing at Xerox PARC_,” in IEEE Annals of the History of Computing, 2024
+
 `2023`
 Jingyi Li, _Eric Rawn_, Jacob Ritchie, Jasper Tran O’Leary, and Sean Follmer. _Beyond the Artifact: Power as a Lens for Creativity Support Tools_. UIST  2023
 
@@ -62,20 +63,19 @@ Tzu-Sheng Kuo and **Eric Rawn**. _Let It Rip! Using Velcro for Acoustic Labeling
 
 ## Experience
 `2019-2021`
-HCI Research Assistant Stanford University
+**HCI Research Assistant** Stanford University
 Mentor: Jingyi Li, Stanford HCI
 - Contributed conceptually and technically to a novel fabrication method for bespoke clothing.
 
 `2020`
-**Algorithms Intern Shaper Tools**
+**Algorithms Intern** Shaper Tools
 Manager: Alec Rivers
 - Wrote a remote continuous-integration testing harness for compiling performance metrics on embedded hardware. Profiled embedded C++ applications and contributed fixes which reduced device startup time by 65%+. Developed multiple experimental interactions for contextual vector design tools.
 
-**Artist Assistant Stanford University**
+**Artist Assistant** Stanford University
 - Created an installation for Terry Berlier with 25 connected stepper motors, driven by a MIDI-based interface.
 
-**Prototyping Studio Technician **
-Dept. of Art Practice, Stanford University
+**Prototyping Studio Technician** Stanford University
 - I made tutorials and development tools for VR, 3D Printing, Projection Mapping, and fabrication devices, helped students plan and execute digital and physical projects, and instructed the use of CNC tools and digital software.
 
 ## Teaching
@@ -100,12 +100,17 @@ Critically Thinking About Video Games, Instructor, Stanford University Fall 2017
 - Taught a novel supplementary course to Stanford’s Art Immersion Curriculum in Digital/Interactive media, discussing political, economic, and social perspectives on interactive media as an industry and art form.
 
 ## Awards
+`2024`
+**Outstanding Graduate Student Instructor Award** UC Berkeley EECS
+
 `2022`
 ACM History Committee Fellowship
 - To encourage historical research, the ACM History Committee supports up to four research projects each year with awards of up to $4,000 each.
 
+`2022`
 SIGCIS Travel Grant
 
+`2022`
 Berkeley Center for New Media Travel Grant
 
 
