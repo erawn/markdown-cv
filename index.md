@@ -24,6 +24,7 @@ __University of California, Berkeley__
 - Advised by Sarah Chasins
 
 __Stanford University__
+
 `2020-2021`
 - M.S. Computer Science _Human-Computer Interaction_
 `2016-2020`
