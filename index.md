@@ -23,11 +23,9 @@ __University of California, Berkeley__
 - Ph.D. Computer Science *Human-Computer Interaction*
 - Advised by Sarah Chasins
 
+`2016-2021`
 __Stanford University__
-
-`2020-2021`
 - M.S. Computer Science _Human-Computer Interaction_
-`2016-2020`
 - B.S. Computer Science _Graphics_
 
 ## Publications
